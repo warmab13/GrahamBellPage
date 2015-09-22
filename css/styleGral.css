@@ -1,0 +1,58 @@
+#logo{
+	width: 250px;
+
+}
+#imgTrans{
+	background-color:black;
+	opacity: .5;
+   -moz-opacity: .5;
+   filter:alpha(opacity=.5);
+   float: left;
+
+}
+#titleCou{
+
+}
+#titleCare{
+	padding-right: 5%;
+}
+#fonticons{
+	font-size: 100px;
+}
+.titleKeep{
+	padding-left: 52%;
+}
+.titleCou{
+	padding-right: 45%;
+}
+
+  /* label color */
+   .input-field label {
+     color: #90a4ae;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #90a4ae;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #90a4ae;
+     box-shadow: 0 1px 0 0 #90a4ae;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #ec407a;
+     box-shadow: 0 1px 0 0 #ec407a;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #ec407a;
+   }
+
+
+   /*Fixed Navbar*/
